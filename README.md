@@ -36,13 +36,9 @@ This project involves automatically generating HTML code from a given sketch or 
    - Optimize the model and HTML generation logic to handle more complex mockup designs.
    - Improve the performance and accuracy of the object detection and text content extraction processes.
 
-#### 8. **Deployment**
-   - Develop a user interface (UI) for uploading mockup images and generating HTML code.
-   - Deploy the system on a cloud platform (e.g., **Heroku** or **AWS**) for public access.
 
----
-
-This stepwise breakdown will help others understand the project structure and how they can contribute or use the repository.
 <h1>Outcome</h1>
-I![image](https://github.com/user-attachments/assets/23473bfa-30a5-4a46-9f3c-bc5b4b080349)
+
+![Screenshot 2025-01-26 155850](https://github.com/user-attachments/assets/e5ec4bad-6e5e-4715-9fe0-656e6a2af245)
+
 
