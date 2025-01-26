@@ -13,26 +13,22 @@ This project involves automatically generating HTML code from a given sketch or 
    - Install required libraries such as **YOLOv5**, **TensorFlow**, **OpenCV**, **Pillow**, **NLP tools**, and others.
 
 #### 2. **Data Collection and Preprocessing**
-   - Collect a dataset of web page mockup images along with their corresponding HTML code.
+   - Make dataset by sketching mock up images and these images are labelled by using Roboflow.
    - Preprocess the images and HTML files to make them suitable for training the deep learning model.
 
 #### 3. **Object Detection with YOLOv5**
    - Implement the **YOLOv5** algorithm to detect various web page elements such as buttons, text boxes, images, and navigation bars.
    - Train the YOLOv5 model on the mockup images to recognize and classify web elements.
 
-#### 4. **Text Content Analysis with NLP**
-   - Use **Natural Language Processing (NLP)** techniques to analyze the text content in the mockup images (e.g., labels, button text).
-   - Extract and process text content to generate the corresponding HTML tags and attributes.
-
-#### 5. **HTML Code Generation**
+#### 4. **HTML Code Generation**
    - Combine the detected web elements and text content to generate the corresponding **HTML** code.
    - Structure the HTML code based on the positions, sizes, and relationships of elements detected in the mockup.
 
-#### 6. **Model Evaluation**
+#### 5. **Model Evaluation**
    - Test the system by providing various mockup images and evaluating the accuracy of the generated HTML code.
    - Compare the generated HTML with the original mockup to assess how closely it matches the design.
 
-#### 7. **Optimization and Refinement**
+#### 6. **Optimization and Refinement**
    - Optimize the model and HTML generation logic to handle more complex mockup designs.
    - Improve the performance and accuracy of the object detection and text content extraction processes.
 
